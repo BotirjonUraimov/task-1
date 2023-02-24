@@ -7,6 +7,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Root />
-    <a href="#">Project sourse</a>
+    <a href="https://github.com/BotirjonUraimov/task-1/tree/task-3">
+      Project sourse
+    </a>
   </React.StrictMode>
 );
